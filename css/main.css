@@ -1,0 +1,23 @@
+body,
+body * {
+    margin:0;
+    padding:0;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.counter {
+    display: flex;
+    gap: 40px;
+    font-size: 60px;
+    padding: 20px;
+}
+
+.counter button {
+    padding: 0 20px;
+    font-size: 60px;
+}
